@@ -20,19 +20,16 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
         uses: actions/checkout@master
-
       - name: 'Download BuildTools from SpigotMC'
         run: |
           rm -rf BuildTools.jar
           wget https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
-
       - name: Configure git and Commit
         run: |
           git config --global user.email 49704373+huanmeng-qwq@users.noreply.github.com
           git config --global user.name huanmeng-qwq
           git add .
           sh commit.sh
-      
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

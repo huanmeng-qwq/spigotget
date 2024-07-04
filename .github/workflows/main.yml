@@ -22,10 +22,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
         uses: actions/checkout@master
-
       - name: 'Download files from SpigotMC'
         run: sh download.sh
-
       - name: Configure git and Commit
         run: |
           git config --global user.email 49704373+huanmeng-qwq@users.noreply.github.com
