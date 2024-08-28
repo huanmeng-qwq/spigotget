@@ -1,9 +1,9 @@
 {
-	"name": "4300",
-	"description": "Jenkins build 4300",
+	"name": "4301",
+	"description": "Jenkins build 4301",
 	"refs": {
 		"BuildData": "533b02cd6ba8dbf8c8607250b02bf2d8c36421e8",
-		"Bukkit": "1ac7f9509d92fc68c4bfc79647de455dd8c1a202",
+		"Bukkit": "7004fcf2e839d5354c0ec59870c0db3d3fde9455",
 		"CraftBukkit": "7070de8c8aada010a91e535064826064d81c0631",
 		"Spigot": "a759b629cbf86401aab56b8c3f21a635e9e76c15"
 	},
