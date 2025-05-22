@@ -1,15 +1,15 @@
 {
-	"name": "4494",
-	"description": "Jenkins build 4494",
+	"name": "4495",
+	"description": "Jenkins build 4495",
 	"refs": {
 		"BuildData": "9b48cd40193ae9f0cebbadce39052a242485eb4c",
 		"Bukkit": "d6a05557dd5c82b22dec63af223b5eb29d8dd59c",
-		"CraftBukkit": "cac1fa136ab2d7416ea48669ce10c46c605c296e",
+		"CraftBukkit": "080f5dc4df1ceef269f7b82c5d51bc178d2e69f8",
 		"Spigot": "3dafb730f3ac2c60e1823ce546e167cc02835300"
 	},
 	"hashes": {
-		"CraftBukkit": "bb18f44cb0c39838c3330d9c53bb05a618874d8a59b8a9599165decc5b84d720",
-		"Spigot": "58299c9bc925d3b667cda62333617b4eeb6b4fbf447c357cf406b755acf1049d"
+		"CraftBukkit": "1ed698d59abe150b9de402aa69f7b77b4a9760965566701f564f28da674e43d2",
+		"Spigot": "e588242936dde1cf4037eac8e50b36b150db83d5d68ba7001acc91c51ed76a60"
 	},
 	"toolsVersion": 181,
 	"javaVersions": [65, 68]
