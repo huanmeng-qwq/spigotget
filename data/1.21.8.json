@@ -1,15 +1,15 @@
 {
-	"name": "4533",
-	"description": "Jenkins build 4533",
+	"name": "4534",
+	"description": "Jenkins build 4534",
 	"refs": {
 		"BuildData": "851ec26f86db9951c78dd8868e0b474c2290ecd2",
 		"Bukkit": "9ef6c8db34776b9d661a91e2d44c0a2d4e43e6cb",
-		"CraftBukkit": "e703c03b4a0c29c81940fc434c780c4f1b02daa2",
+		"CraftBukkit": "65f1f1130a7052e7c8018e3bd579470edf206833",
 		"Spigot": "7c52c662ccee93e52a21c54a1b8f93721e4ec773"
 	},
 	"hashes": {
-		"CraftBukkit": "de20704aadd99a5b9e6ee681f2355df37de0ef44094d69d49d40df1ddd3ec195",
-		"Spigot": "427fa564fafb21eb710800a9efbfe72204f5b38c970a08b921295176f07a11a1"
+		"CraftBukkit": "482e909b28925d34ce28e6cf0e8aea2301985e59906f31e3fd266cc736bbdf60",
+		"Spigot": "6ab69fac1efc2e30beef4803fb7b14bb749a73322a7ff7d0f4e34de0ce4964e2"
 	},
 	"toolsVersion": 181,
 	"javaVersions": [65, 69]
