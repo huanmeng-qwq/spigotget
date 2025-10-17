@@ -1,3 +1,6 @@
 User-agent: *
 Disallow: /stash/login
 Disallow: /jenkins/login
+
+Disallow: /stash
+Allow: /stash/projects/SPIGOT
