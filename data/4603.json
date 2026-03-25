@@ -1,0 +1,16 @@
+{
+	"name": "4603",
+	"description": "Jenkins build 4603",
+	"refs": {
+		"BuildData": "5bf19beb9fa500f822c35eb5634fcefe27f60bec",
+		"Bukkit": "8cc8b51d9e6d522b73c380441be0a5c0e88c153a",
+		"CraftBukkit": "2dd2e05a10dbe3011bdee828e7ce9b426b79dd98",
+		"Spigot": "cc5228d82b825a0288dd89cce14f9f49c1d07e1b"
+	},
+	"hashes": {
+		"CraftBukkit": "7fb722a4cc100b5fd22e8675fd27175a4dce0bd7f8379ce1fbfc7014810a4a5d",
+		"Spigot": "abb8131637783cbb9e25428b89cd110e55de7dec2fb5849759786d914d8626b7"
+	},
+	"toolsVersion": 197,
+	"javaVersions": [69, 70]
+}
