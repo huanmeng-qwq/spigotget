@@ -1,0 +1,16 @@
+{
+	"name": "4606",
+	"description": "Jenkins build 4606",
+	"refs": {
+		"BuildData": "5bf19beb9fa500f822c35eb5634fcefe27f60bec",
+		"Bukkit": "22d157f2d582c23ec4846279fa86d9d040580d65",
+		"CraftBukkit": "aa6533fbb0555fe8b60322ad40c90b99017ee532",
+		"Spigot": "cc5228d82b825a0288dd89cce14f9f49c1d07e1b"
+	},
+	"hashes": {
+		"CraftBukkit": "9756841dae8cf26fefc4df5d891dc23272680c1fc39bb0615184cdf9aa7928d8",
+		"Spigot": "0ff3c47dc593cee6ef5367bbf4fa40a2b71f8e8cb5caf7ff57005e84fe3c544e"
+	},
+	"toolsVersion": 197,
+	"javaVersions": [69, 70]
+}
