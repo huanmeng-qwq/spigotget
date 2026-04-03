@@ -1,15 +1,15 @@
 {
-	"name": "4612",
-	"description": "Jenkins build 4612",
+	"name": "4615",
+	"description": "Jenkins build 4615",
 	"refs": {
 		"BuildData": "71cd3e74d4a679366ccd4b6fff5e5595362832e3",
-		"Bukkit": "bf513bb53e9660ff4ba120b65e82ff767a88d13c",
-		"CraftBukkit": "795738bed2845fae2459a5bc98e0b5481571ec4a",
+		"Bukkit": "e2e27ca3506e4802c4d123239f57c2d9692072c6",
+		"CraftBukkit": "63fe8dd07644a79f954355e0da866970f123a572",
 		"Spigot": "4a90bec56da29bd9da0f2a7f15f3ba966a38caae"
 	},
 	"hashes": {
-		"CraftBukkit": "ef6ec5b39b912f0783db47f715e15b991ce99f297f295273ada19af275f70f33",
-		"Spigot": "132e1b44031db1015b0031b71eb3de0c3633255929e4f367d93b1b7582538efe"
+		"CraftBukkit": "8113e18e77f631f129bcbc1f54d795f72d89a51a8e728ef15886dd9339ddc1b8",
+		"Spigot": "9bd264f75bd0be0fa39517d7627116e5d0e60ad74a4229dcf547b310fc2f6935"
 	},
 	"toolsVersion": 197,
 	"javaVersions": [69, 70]
