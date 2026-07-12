@@ -1,15 +1,15 @@
 {
-	"name": "4632",
-	"description": "Jenkins build 4632",
+	"name": "4642",
+	"description": "Jenkins build 4642",
 	"refs": {
-		"BuildData": "1766f29a5430bb246f77e2fe24debb93a26a587d",
-		"Bukkit": "b5342f1ad2869a496f29d1d320744c00b161a162",
-		"CraftBukkit": "690a40233e2e171d94e2b99577b2b55b10d76d81",
-		"Spigot": "566f9723ddc5625b20aaa5f7acee9e8328ba5399"
+		"BuildData": "41bd187bd86ec1444d2dc9e0188e53559cf870b3",
+		"Bukkit": "71fd60ea2a01d6de11a28715de09a9ae7e2e86d8",
+		"CraftBukkit": "08de3aac3a8707f8b006dadf442c4e91786fe7ee",
+		"Spigot": "8db49a2b72ef138a615856934957da2978f72f08"
 	},
 	"hashes": {
-		"CraftBukkit": "4375ff320cba55d0c2187268a100e10c8369c61470e077f5555585007306ed4c",
-		"Spigot": "95f871fd6d055ba10b5a058768ddad43b0be0286480c8eba435c835c95d5f19c"
+		"CraftBukkit": "445b4631fa88f7ecfa2cc683c46824393e30b80fa0ec272d1c126481486507a6",
+		"Spigot": "eaf8d1ce99f3ae4cd66513b2b87c63d4f85d189c1e5d86c189b09f2da6857821"
 	},
 	"toolsVersion": 197,
 	"javaVersions": [69, 70]
